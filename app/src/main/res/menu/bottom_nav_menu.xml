@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/outline_ac_unit_24"
+        android:title="EditText" />
+
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Botones" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/outline_arrow_selector_tool_24"
+        android:title="Elementos de seleccion" />
+
+    <item
+        android:id="@+id/navigation_list"
+        android:icon="@drawable/baseline_format_list_bulleted_24"
+        android:title="Listas" />
+
+    <item
+        android:id="@+id/navigation_element"
+        android:icon="@drawable/outline_attach_file_24"
+        android:title="Elementos de Informacion" />
+
+</menu>
